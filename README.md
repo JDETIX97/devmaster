@@ -1,0 +1,47 @@
+# DevMaster – Proyecto de Formación en Angular + Ionic
+
+Este repositorio contiene el proyecto base para el plan de estudio diario orientado al dominio avanzado de tecnologías modernas como **Angular**, **Ionic**, **Firebase** y **GitHub**. El objetivo es construir una aplicación robusta, modular y escalable aplicando buenas prácticas de desarrollo profesional.
+
+---
+
+## 📌 Objetivos del Proyecto
+
+- Consolidar y perfeccionar habilidades en Angular e Ionic.
+- Aplicar una arquitectura escalable y mantenible.
+- Integrar servicios de Firebase: autenticación, Firestore, hosting, entre otros.
+- Dominar Git y GitHub en un flujo de trabajo colaborativo.
+- Publicar avances y entregables diarios como parte del plan de estudio.
+
+---
+
+## 🛠️ Tecnologías Iniciales
+
+- [Angular CLI](https://angular.io/cli) – v20.0.6
+- [Ionic Framework](https://ionicframework.com/) – v7.2.1
+- [Firebase CLI](https://firebase.google.com/docs/cli)
+- [Node.js](https://nodejs.org/) – v22.17.0
+- [Git](https://git-scm.com/)
+- Editor sugerido: [Visual Studio Code](https://code.visualstudio.com/)
+
+---
+
+## 🔧 Configuración del Entorno
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/devmaster.git
+   cd devmaster
+   
+2. Instalar dependecias:
+   ```bash
+   npm install -g @angular/cli
+   npm install -g @ionic/cli
+   npm install -g firebase-tools
+   
+3. Iniciar la aplicación:
+   ```bash
+   ionic serve
+   
+---
+
+<img width="1908" height="986" alt="image" src="https://github.com/user-attachments/assets/ee0c0ece-48e8-44a4-828f-e9d691b7b38b" />
