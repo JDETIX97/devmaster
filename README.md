@@ -45,3 +45,18 @@ Este repositorio contiene el proyecto base para el plan de estudio diario orient
 ---
 
 <img width="1908" height="986" alt="image" src="https://github.com/user-attachments/assets/ee0c0ece-48e8-44a4-828f-e9d691b7b38b" />
+
+---
+
+### ✅ Día 1 – Preparación del Entorno
+- Instalación de herramientas: Angular CLI, Ionic CLI, Firebase CLI, Git.
+- Creación del proyecto base con `ionic start`.
+- Revisión de fundamentos Angular (componentes, servicios, enrutamiento).
+
+### ✅ Día 2 – Arquitectura Escalable y Lazy Loading
+- Reorganización del proyecto:
+  - Estructura modular (`core`, `shared`, `features`).
+  - Creación de módulos `auth` y `dashboard`.
+- Implementación de lazy loading en `app-routing.module.ts`.
+- Navegación funcional entre rutas.
+- Aplicación lista para escalar módulos de forma organizada.
