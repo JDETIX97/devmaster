@@ -29,7 +29,7 @@ Este repositorio contiene el proyecto base para el plan de estudio diario orient
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/devmaster.git
+   git clone https://github.com/JDETIX97/devmaster.git
    cd devmaster
    
 2. Instalar dependecias:
